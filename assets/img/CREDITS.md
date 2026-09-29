@@ -1,0 +1,11 @@
+# Photo credits (Pexels)
+- hero/hero.jpg — cottonbro studio
+- rooms/checkup.jpg — RDNE Stock project
+- rooms/gyneco.jpg — MART  PRODUCTION
+- rooms/uzd.jpg — MART  PRODUCTION
+- rooms/lab.jpg — Tahir Xəlfəquliyev
+- rooms/consult.jpg — RDNE Stock project
+- rooms/pediatr.jpg — Pavel Danilyuk
+- infra/interior.jpg — https://kaboompics.com/
+- infra/detail.jpg — Tima Miroshnichenko
+- infra/doc.jpg — Daniil Kondrashin
